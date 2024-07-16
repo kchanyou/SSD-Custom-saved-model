@@ -4,7 +4,7 @@ SSD_MobilenetV2 / Tensorflow / saved model / pb
 Detection : Fire, Smoke and Others
 
 
-fireandsmoke - v1 2024-06-12 1:31pm
+## Dataset INFO
 ==============================
 
 This dataset was exported via roboflow.com on June 12, 2024 at 6:05 AM GMT
