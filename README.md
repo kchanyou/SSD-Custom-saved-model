@@ -32,7 +32,7 @@ No image augmentation techniques were applied.
 
 
 
-# fireandsmoke > 2024-06-12 1:31pm
+## fireandsmoke
 https://universe.roboflow.com/yeungnam/fireandsmoke-onp8v
 
 Provided by a Roboflow user
