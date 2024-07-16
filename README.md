@@ -32,7 +32,7 @@ No image augmentation techniques were applied.
 
 
 
-## fireandsmoke
+### fireandsmoke
 https://universe.roboflow.com/yeungnam/fireandsmoke-onp8v
 
 Provided by a Roboflow user
